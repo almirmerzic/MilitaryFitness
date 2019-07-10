@@ -1,0 +1,45 @@
+{
+  "meni": {
+    "home": "HOME",
+    "about": "ABOUT",
+    "contact":"CONTACT "
+  },
+  "home": {
+    "text1": "MILITARY FITNESS",
+    "text2": "WHAT IS MILITARY FITNESS?",
+    "text3": "Unlike the movies, military fitness isn’t actually a red-faced, mouth-frothing drill sergeant screaming at a line of petrified new army recruits to ‘drop and give him 20’.",
+    "button1":"READ MORE"
+  },
+  "contact": {
+    "contactus": "Contact Us",
+    "home": "Home",
+    "address": "Sarajevo, ilidža",
+    "addressnumber": " Butmirska cesta 58, Ilidža",
+    "phone":"+387 61 710 158",
+    "workingtime":"Mon to Fri 9am to 10pm",
+    "email":"info@semperparatus.com",
+    "send":"Send us your query anytime!",
+    "button":"Send Message"
+  },
+  "participate": {
+    "participate": "Participate",
+    "home": "Home",
+    "address": "Sarajevo, ilidža",
+    "addressnumber": " Butmirska cesta 58, Ilidža",
+    "phone":"+387 61 710 158",
+    "workingtime":"Mon to Fri 9am to 10pm",
+    "email":"info@semperparatus.com",
+    "send":"Send us your query anytime!",
+    "button":"Apply"
+  },
+  "footer": {
+    "aboutme": "About Me",
+    "newsletter": "Newsletter",
+    "followus": "Follow Me",
+    "text1":"We have tested a number of registry fix and clean utilities and present our top 3 list on our site for your convenience.",
+    "copyrigth":"Copyright ©2019 All rights reserved | semperparatus",
+    "stay":"Stay updated with our latest trends",
+    "letus":"Let us be social"
+  }
+
+}
