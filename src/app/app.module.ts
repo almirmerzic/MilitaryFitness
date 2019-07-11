@@ -15,6 +15,7 @@ import { ParticipateComponent } from './components/participate/participate.compo
 import {TranslateLoader, TranslateModule} from '@ngx-translate/core';
 import {TranslateHttpLoader} from '@ngx-translate/http-loader';
 import {HttpClient, HttpClientModule} from '@angular/common/http';
+import { BrandsComponent } from './components/brands/brands.component';
 
 @NgModule({
   declarations: [
@@ -25,7 +26,8 @@ import {HttpClient, HttpClientModule} from '@angular/common/http';
     AboutusComponent,
     HomeComponent,
     ProjectComponent,
-    ParticipateComponent
+    ParticipateComponent,
+    BrandsComponent
   ],
   imports: [
     HttpClientModule,
