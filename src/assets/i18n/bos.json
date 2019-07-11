@@ -2,7 +2,9 @@
   "meni": {
     "home": "POČETNA",
     "about": "O NAMA",
-    "contact":"KONTAKT"
+    "contact":"KONTAKT",
+    "participate":"PARTICIPATE",
+    "project":"PROJECT"
   },
   "home": {
     "text1": "MILITARY FITNESS",

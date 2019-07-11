@@ -2,7 +2,9 @@
   "meni": {
     "home": "HOME",
     "about": "ABOUT",
-    "contact":"CONTACT "
+    "contact":"CONTACT ",
+    "participate":"PARTICIPATE",
+    "project":"PROJECT"
   },
   "home": {
     "text1": "MILITARY FITNESS",
@@ -44,6 +46,11 @@
     "copyrigth":"Copyright ©2019 All rights reserved | semperparatus",
     "stay":"Stay updated with our latest trends",
     "letus":"Let us be social"
+  },
+  "project": {
+    "title": "Project",
+    "home": "Home"
   }
+
 
 }
