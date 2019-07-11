@@ -17,6 +17,7 @@ import {TranslateHttpLoader} from '@ngx-translate/http-loader';
 import {HttpClient, HttpClientModule} from '@angular/common/http';
 import { BrandsComponent } from './components/brands/brands.component';
 import { VideoComponent } from './components/video/video.component';
+import { PersonsComponent } from './components/persons/persons.component';
 
 @NgModule({
   declarations: [
@@ -29,7 +30,8 @@ import { VideoComponent } from './components/video/video.component';
     ProjectComponent,
     ParticipateComponent,
     BrandsComponent,
-    VideoComponent
+    VideoComponent,
+    PersonsComponent
   ],
   imports: [
     HttpClientModule,
