@@ -18,6 +18,8 @@ import {HttpClient, HttpClientModule} from '@angular/common/http';
 import { BrandsComponent } from './components/brands/brands.component';
 import { VideoComponent } from './components/video/video.component';
 import { PersonsComponent } from './components/persons/persons.component';
+import { DisciplineComponent } from './components/discipline/discipline.component';
+import { HowtoparticipateComponent } from './components/howtoparticipate/howtoparticipate.component';
 
 @NgModule({
   declarations: [
@@ -31,7 +33,9 @@ import { PersonsComponent } from './components/persons/persons.component';
     ParticipateComponent,
     BrandsComponent,
     VideoComponent,
-    PersonsComponent
+    PersonsComponent,
+    DisciplineComponent,
+    HowtoparticipateComponent
   ],
   imports: [
     HttpClientModule,
