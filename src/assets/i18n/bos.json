@@ -8,7 +8,11 @@
     "text1": "MILITARY FITNESS",
     "text2": "ŠTA JE MILITARY FITNESS?",
     "text3": "Unlike the movies, military fitness isn’t actually a red-faced, mouth-frothing drill sergeant screaming at a line of petrified new army recruits to ‘drop and give him 20’.",
-    "button1":"PROĆITAJ VIŠE"
+    "button1":"PROĆITAJ VIŠE",
+    "participate":"HOW TO PARTICIPATE",
+    "details":"Excepteur sint occaecat cupidatat",
+    "here":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "button2":"PARTICIPATE"
   },
   "contact": {
     "contactus": "Kontakt",
